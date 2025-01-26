@@ -141,8 +141,7 @@ git branch -M main
 git remote add origin <path_to_your_git_repo>
 git push -u origin main
 ```
-Aggiungere manualmente il branch `gh-pages`:
-!![Image Description](/images/gh-pages.png)
+Aggiungere manualmente il branch `gh-pages`.
 Andare nelle impostazioni e abilitare "Read and write permission".
 ### deploy.yml
 Creare le cartelle `.github/workflows/` e il file `deploy.yml` all'interno di esse.
