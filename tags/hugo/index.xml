@@ -18,7 +18,7 @@
 &lt;h2 id=&#34;creazione-sito&#34;&gt;Creazione sito&lt;/h2&gt;
 &lt;p&gt;Andare nella directory scelta (nel mio caso &lt;code&gt;sites/&lt;/code&gt;) ed eseguire il seguente comando:&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new site nome_sito -f yml
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ecco lo svolgimento:&lt;/p&gt;</description>
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ecco come ho fatto:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
