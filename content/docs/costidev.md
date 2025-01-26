@@ -13,7 +13,7 @@ Andare nella directory scelta (nel mio caso `sites/`) ed eseguire il seguente co
 ```
 hugo new site nome_sito -f yml
 ```
-Ecco lo svolgimento:
+Ecco come ho fatto:
 ```
 ~$ cd Documents/sites/
 ~/Documents/sites$ hugo new site prova -f yml
@@ -31,7 +31,7 @@ Just a few more steps...
 
 See documentation at https://gohugo.io/.
 ```
-Ecco la struttura che verrà creata:
+Di seguito la struttura che verrà creata:
 ```
 ~/Documents/sites/prova$ tree
 .
