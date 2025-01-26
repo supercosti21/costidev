@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Docs on costidev</title>
-    <link>https://supercosti21.github.io/costidev/docs/</link>
-    <description>Recent content in Docs on costidev</description>
+    <title>Tutorial on costidev</title>
+    <link>https://supercosti21.github.io/costidev/tags/tutorial/</link>
+    <description>Recent content in Tutorial on costidev</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://supercosti21.github.io/costidev/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://supercosti21.github.io/costidev/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Creazione sito con gh-pages</title>
       <link>https://supercosti21.github.io/costidev/docs/costidev/</link>

@@ -9,12 +9,16 @@
     <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://supercosti21.github.io/costidev/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>costidev-1.0</title>
+      <title>Creazione sito con gh-pages</title>
       <link>https://supercosti21.github.io/costidev/docs/costidev/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://supercosti21.github.io/costidev/docs/costidev/</guid>
-      <description>&lt;h1 id=&#34;this-is-a-test-page&#34;&gt;This is a test page&lt;/h1&gt;
-&lt;p&gt;Bro he didnt do what he had to do!!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;creazione-di-un-sito-basato-su-hugo-con-github-pages-tramite-github-actions&#34;&gt;Creazione di un sito basato su Hugo con Github Pages tramite Github Actions&lt;/h1&gt;
+&lt;p&gt;Questo post fornisce una guida passo passo su come creare questo sito basato su Hugo, configurando le Github Actions. (NB: Questo sopprattutto per me al fine di ricordarmi come e cosa ho fatto :) ).&lt;/p&gt;
+&lt;h2 id=&#34;creazione-sito&#34;&gt;Creazione sito&lt;/h2&gt;
+&lt;p&gt;Andare nella directory scelta (nel mio caso &lt;code&gt;sites/&lt;/code&gt;) ed eseguire il seguente comando:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;hugo new site nome_sito -f yml
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Ecco lo svolgimento:&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

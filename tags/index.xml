@@ -9,17 +9,24 @@
     <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://supercosti21.github.io/costidev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Costidev</title>
-      <link>https://supercosti21.github.io/costidev/tags/costidev/</link>
+      <title>Coding</title>
+      <link>https://supercosti21.github.io/costidev/tags/coding/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://supercosti21.github.io/costidev/tags/costidev/</guid>
+      <guid>https://supercosti21.github.io/costidev/tags/coding/</guid>
       <description></description>
     </item>
     <item>
-      <title>Hugosite</title>
-      <link>https://supercosti21.github.io/costidev/tags/hugosite/</link>
+      <title>Hugo</title>
+      <link>https://supercosti21.github.io/costidev/tags/hugo/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://supercosti21.github.io/costidev/tags/hugosite/</guid>
+      <guid>https://supercosti21.github.io/costidev/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tutorial</title>
+      <link>https://supercosti21.github.io/costidev/tags/tutorial/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://supercosti21.github.io/costidev/tags/tutorial/</guid>
       <description></description>
     </item>
   </channel>

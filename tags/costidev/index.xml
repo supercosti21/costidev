@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Costidev on costidev</title>
-    <link>https://supercosti21.github.io/costidev/tags/costidev/</link>
+    <link>//localhost:1313/tags/costidev/</link>
     <description>Recent content in Costidev on costidev</description>
     <generator>Hugo -- 0.142.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://supercosti21.github.io/costidev/tags/costidev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/costidev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>costidev-1.0</title>
-      <link>https://supercosti21.github.io/costidev/docs/costidev/</link>
+      <link>//localhost:1313/docs/costidev/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://supercosti21.github.io/costidev/docs/costidev/</guid>
+      <guid>//localhost:1313/docs/costidev/</guid>
       <description>&lt;h1 id=&#34;this-is-a-test-page&#34;&gt;This is a test page&lt;/h1&gt;
 &lt;p&gt;Bro he didnt do what he had to do!!&lt;/p&gt;</description>
     </item>
